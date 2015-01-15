@@ -1,4 +1,4 @@
-# Accelarestclient
+# Accela REST Client
 
 TODO: Write a gem description
 
